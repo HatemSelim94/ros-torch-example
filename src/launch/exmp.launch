@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <node
+        respawn="true"
+        pkg="exmp"
+        type="node"
+        name="hhhhh"
+        output="screen" >
+</node>
+
+</launch>
